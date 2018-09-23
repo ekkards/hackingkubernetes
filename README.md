@@ -2,7 +2,7 @@
 Hackerkiste Augsburg 2018 code samples
 
 ## Build code
-``
+```
 docker build -t ekkards/hackingkubernetes .
 docker image ls
 ```
