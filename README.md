@@ -2,7 +2,7 @@
 Hackerkiste Augsburg 2018 code samples
 
 ## Build code
-```
+``
 docker build -t ekkards/hackingkubernetes .
 docker image ls
 ```
@@ -11,7 +11,7 @@ docker image ls
 ```
 docker run -p 4000:8080 ekkards/hackingkubernetes
 docker container ls
-``
+```
 and open URL `http://localhost:4000` in browser
 
 ## Publish to dockerhub
